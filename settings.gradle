@@ -1,0 +1,3 @@
+include ':mosubtitleviewlib'
+include ':app'
+rootProject.name = "MoSubtitleView"

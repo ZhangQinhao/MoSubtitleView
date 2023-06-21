@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MoAutoSizeTextView">
+        <attr name="mosubtitle_autoSizeMax" format="dimension" />
+        <attr name="mosubtitle_autoSizeMin" format="dimension" />
+        <attr name="mosubtitle_autoSizeStep" format="dimension" />
+        <attr name="android:textColor" />
+    </declare-styleable>
+
+    <declare-styleable name="MoSubtitleItemView">
+        <attr name="mosubtitle_childCount" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="MoSubtitleView">
+        <attr name="mosubtitle_item_width" format="dimension" />
+        <attr name="mosubtitle_childCount" />
+        <attr name="android:textColor" />
+    </declare-styleable>
+</resources>

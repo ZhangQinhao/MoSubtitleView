@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="mosubtitle_max_textsize">53.34dip</dimen>
+    <dimen name="mosubtitle_min_textsize">13dip</dimen>
+    <dimen name="mosubtitle_step_textsize">1dip</dimen>
+</resources>
