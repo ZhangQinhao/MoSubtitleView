@@ -2,6 +2,9 @@
 
 ![enter description here][1]
 
+### 引入
+
+在build.gradle引入  `implementation 'io.github.zhangqinhao:MoSubtitleView:1.0.1'`
 
 ``` stylus
 <com.monke.mosubtitleviewlib.MoSubtitleView
