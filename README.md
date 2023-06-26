@@ -4,7 +4,7 @@
 
 ### 引入
 
-在build.gradle引入  `implementation 'io.github.zhangqinhao:MoSubtitleView:1.0.1'`
+在build.gradle引入  `implementation 'io.github.zhangqinhao:MoSubtitleView:1.0.2'`
 
 ``` stylus
 <com.monke.mosubtitleviewlib.MoSubtitleView
